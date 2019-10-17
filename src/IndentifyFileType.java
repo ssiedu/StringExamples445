@@ -5,7 +5,8 @@ public class IndentifyFileType {
     public static void main(String args[]){
         Scanner sc=new Scanner(System.in);
         System.out.println("Enter File Name : ");
-        String name=sc.next();
+        String name=sc.nextLine();
+        name=name.trim();
         
         if(name.endsWith(".txt")){
             System.out.println("Text File");
