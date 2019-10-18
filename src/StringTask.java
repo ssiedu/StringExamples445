@@ -10,5 +10,15 @@
     4) user will provide a string in lower case and
        you need to create a string in upper case 
        using your own method (dont use toUpperCase)
+    5) take a string from user and check if it is a 
+       palindrome or not (without using StringBuffer)
+    6) take a string from user and check if it is a 
+       palindrome or not (using StringBuffer)
+    7) take a string from user and replace all whilespaces
+       with "#".
+    8) take a string from user and remove all the digits from it.
+
+        
+
 
 */
